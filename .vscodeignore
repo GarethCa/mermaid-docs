@@ -18,3 +18,4 @@ test-output/**
 sample_python_file.py
 create_icon.py
 runTest.js
+test_diagrams.py

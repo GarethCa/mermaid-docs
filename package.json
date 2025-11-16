@@ -3,17 +3,17 @@
   "displayName": "Mermaid Docstring Diagrams",
   "description": "Automatically extracts and renders Mermaid diagrams from Python docstrings with inline preview and hover features",
   "version": "1.0.0",
-  "publisher": "YOUR_PUBLISHER_NAME",
-  "author": "Your Name",
+  "publisher": "GarethCairns",
+  "author": "Gareth Cairns",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/mermaid-vscode-extension.git"
+    "url": "https://github.com/GarethCa/mermaid-docs.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/mermaid-vscode-extension/issues"
+    "url": "https://github.com/GarethCa/mermaid-docs/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/mermaid-vscode-extension#readme",
+  "homepage": "https://github.com/GarethCa/mermaid-docs#readme",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#1e1e1e",
