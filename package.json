@@ -2,7 +2,7 @@
   "name": "mermaid-docstring-diagrams",
   "displayName": "Mermaid Docstring Diagrams",
   "description": "Automatically extracts and renders Mermaid diagrams from Python docstrings with inline preview and hover features",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "GarethCairns",
   "author": "Gareth Cairns",
   "license": "MIT",
@@ -129,5 +129,7 @@
     "ts-node": "^10.9.1",
     "@mermaid-js/mermaid-cli": "^10.6.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^10.6.1"
+  }
 }

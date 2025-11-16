@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.1] - 2024-11-16
+
+### 🐛 Bug Fixes
+- **Critical Fix**: Moved `@mermaid-js/mermaid-cli` from devDependencies to dependencies
+- This fixes the issue where diagrams were not rendering in the published extension
+- Users should now see inline diagrams and hover previews working correctly
+
 ## [1.0.0] - 2024-11-15
 
 ### ✨ Initial Release Features
